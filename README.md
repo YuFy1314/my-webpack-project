@@ -11,3 +11,5 @@
 > npm start / npm run dev
 ## 打开浏览器
 地址输入localhost:8088  就可以看到项目运行成功了
+
+同时我的[个人博客](https://www.jianshu.com/p/0f00ad5e8e3b)恭候大家, 这里可以教你如何一步步配置该项目
